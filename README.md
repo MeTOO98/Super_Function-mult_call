@@ -2,7 +2,7 @@
 
 # Understanding `super()` in Python: A Guide to Single and Multiple Inheritance
 
-This project explains and demonstrates the use of the `super()` function in Python, focusing on **why it’s necessary**, especially in **multiple inheritance**, and how it helps maintain proper method resolution using **MRO (Method Resolution Order)**.
+This Report explains and demonstrates the use of the `super()` function in Python, focusing on **why it’s necessary**, especially in **multiple inheritance**, and how it helps maintain proper method resolution using **MRO (Method Resolution Order)**.
 
 ---
 
