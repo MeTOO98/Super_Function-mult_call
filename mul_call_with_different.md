@@ -1,6 +1,6 @@
 # Understanding Method Resolution Order (MRO) with `super()` in Python
 
-This project demonstrates how Python resolves method calls in **multiple inheritance** when parent classes define methods with the **same name but different implementations**. It focuses on the behavior of the `super()` function and how it interacts with the **MRO (Method Resolution Order)**.
+This Report demonstrates how Python resolves method calls in **multiple inheritance** when parent classes define methods with the **same name but different implementations**. It focuses on the behavior of the `super()` function and how it interacts with the **MRO (Method Resolution Order)**.
 
 ---
 
